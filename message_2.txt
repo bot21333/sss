@@ -7,7 +7,9 @@ local WhiteListUsername = {
     "w4ve_r",
     "Choniology",
     "Rhu_tupper",
-    "BaconHairbutProHa"
+    "BaconHairbutProHa",
+    "whatemdown",
+    "zCorruptedYT"
 
 }
 local WhiteListID = {
@@ -18,7 +20,9 @@ local WhiteListID = {
     5489177831,
     5383827087,
     1146788687,
-    2221351165
+    2221351165,
+    4154799215,
+    378621294
 }
 
 if (table.find(WhiteListUsername,game:GetService("Players").LocalPlayer.Name:lower()) or table.find(WhiteListID,game:GetService("Players").LocalPlayer.UserId)) then
