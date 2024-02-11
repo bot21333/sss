@@ -14,7 +14,8 @@ local WhiteListUsername = {
     "NarutoUzumaki0110110",
     "adigamrz",
     "DaBabyRomania",
-    "zhrgrijrvrhr"
+    "zhrgrijrvrhr",
+    "Herryoda24"
 
 }
 local WhiteListID = {
