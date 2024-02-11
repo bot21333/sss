@@ -3,7 +3,8 @@ local WhiteListUsername = {
     "hl_cj",
     "bestrobloxdev091",
     "DaBabyRomania",
-    "GameCreatorPlay1"
+    "GameCreatorPlay1",
+    "w4ve_r"
 
 }
 local WhiteListID = {
@@ -11,6 +12,7 @@ local WhiteListID = {
     675520983,
     4859204475,
     2584768178,
+    5489177831
 
 }
 
